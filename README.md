@@ -2,7 +2,7 @@
 
 Live site:
 
-- [BookBive](https://byte-blaze.netlify.app/)
+- [BookBive](https://bookbive-zakia-sultanas-projects.vercel.app/)
 
 Resources:
 
